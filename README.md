@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **react,vue,...**
 
-- 💬 Ask me about **web developing : js , react ,vue , ... **
+- 💬 Ask me about **web developing : js , react ,vue , ...**
 
 - 📫 How to reach me **fardin.k.s.10.1@gmail.com**
 
