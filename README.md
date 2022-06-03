@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fardin Kamali</h1>
-<h3 align="center">A passionate frontend developer from iran</h3>
+<h3 align="center">A mad frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/pALw8LdftuqAw/giphy.gif?cid=ecf05e4713qwzg929gppmwukxccwinkehimb0f1h1a46kds3&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=facelessfk&label=Profile%20views&color=0e75b6&style=flat" alt="facelessfk" /> </p>
