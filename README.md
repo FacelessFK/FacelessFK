@@ -53,7 +53,7 @@
 <br>
 <div align="center">
 
-[![Fardin's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Faceless_FK21&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![Fardin's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Faceless_FK21&theme=dark)](https://github.com/FacelessFK)
 
 </div>
 
