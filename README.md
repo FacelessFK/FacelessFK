@@ -54,7 +54,7 @@
 <div align="center">
 
 ![Codewars](https://github.r2v.ch/codewars?user=FacelessFK&stroke=%23BB432C)
-
+[![Fardin's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Faceless_FK21&theme=dark)](https://github.com/FacelessFK)
 </div>
 
 
